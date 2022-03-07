@@ -298,7 +298,7 @@ This document will be then loaded to our `MongoDB` database.
 
 Now let's make sure to do the opposite and see that this document indeed shows up on our database: 
 
-````bash 
+```bash 
 $ docker exec -it mongodb mongo
 ```
 
